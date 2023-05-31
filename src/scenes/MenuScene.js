@@ -40,6 +40,3 @@ class MenuScene extends BaseScene {
 };
 
 export default MenuScene;
-
-// Create ScoreScene
-// Display Best score, you can get from the local storage
